@@ -1,5 +1,6 @@
 # MC102 - Algoritmos e Programação de Computadores
  Laboratórios da disciplina MC102, UNICAMP, 2016-1
+ Professor: Arnaldo Vieira Moura
 
 A estrutura do repositório segue o esquema a seguir: Cada laboratório é separado em pastas com sua numeração (ex: labSemanal04)
 
